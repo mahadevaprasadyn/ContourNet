@@ -4,7 +4,7 @@
 import glob
 import os
 
-import torch
+import pytorch
 from setuptools import find_packages
 from setuptools import setup
 from torch.utils.cpp_extension import CUDA_HOME
